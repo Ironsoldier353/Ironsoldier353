@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Deep learning**
 
-- 👯 I’m looking to collaborate on **Smart home automation**
-
 - 📫 How to reach me **jeetsarkarst353@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
