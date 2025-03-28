@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jeet Sarkar</h1>
-<h3 align="center">Data Science and ML Enthusiast</h3>
+<h3 align="center">Web Developer & Data Science Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ironsoldier353&label=Profile%20views&color=0e75b6&style=flat" alt="ironsoldier353" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ironsoldier353" alt="ironsoldier353" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Web Dev in Next.js**
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 📫 How to reach me **jeetsarkar1st353@gmail.com**
+- 📫 How to reach me **jeetsarkarst353@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
