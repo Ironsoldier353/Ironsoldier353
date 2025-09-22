@@ -11,7 +11,6 @@
 ### 🚀 Quick Snapshot
 - 🎓 **B.Tech in Electronics & Communication Engineering @ HIT Kolkata**  
 - 💻 Currently: **Building full-stack apps with Next.js + Prisma + AI**  
-- 📊 Exploring: **Agentic AI & AI-driven applications**  
 - 📫 Reach me: **jeetsarkar1st353@gmail.com**
 
 ---
