@@ -36,7 +36,7 @@
 
 ### 📄 Resume
 <p align="left">
-  <a href="https://drive.google.com/file/d/1r06djhBGLprj9Sa8cMWx1peoPD_W6VCB/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1-4SMnSl6hWyna7nt9sLBGxpXaCuFRMDq/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=flat&logo=google-drive&logoColor=white"/>
   </a>
 </p>
