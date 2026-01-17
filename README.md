@@ -30,8 +30,8 @@ while delivering clean, modern frontend interfaces using React and Next.js.
 
 ### 🛠 Tech Stack
 **Languages:** Python, TypeScript, JavaScript, C, C++, SQL  
-**Frameworks:** Next.js, React, FastAPI
-**Databases:** PostgreSQL, MySQL, MongoDB, NeonDB , Prisma (ORM)
+**Frameworks:** Next.js, React, FastAPI  
+**Databases:** PostgreSQL, MySQL, MongoDB, NeonDB , Prisma (ORM)  
 **Tools:** Git, GitHub, Vercel, Render  
 
 <p align="left">
